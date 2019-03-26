@@ -1,8 +1,8 @@
 module.exports = {
   base: '/boilerplate-vuepress/',
-  title: 'boilerplate-vuepress',
+  title: 'boilerplate-vuepress-description',
   host: '0.0.0.0',
-  description: 'About glob, i want to learn.',
+  description: 'boilerplate-vuepress-description',
   head: [
     [
       'link',
