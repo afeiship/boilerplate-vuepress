@@ -1,5 +1,5 @@
 # NOTES
-> GET start!!
+> Enjoy your notes.
 
 ::: tip
 Basic install steps.
